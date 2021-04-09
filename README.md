@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @xoo2001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋
 
-<!---
-xoo2001/xoo2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+**Xoo2001/xoo2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+![xoo2001 github stats](https://github-readme-stats.vercel.app/api?username=xoo2001&hide=prs,issues&show_icons=true&title_color=56ec99&text_color=ececec&icon_color=00ffba&bg_color=2c2a2a)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xoo2001&style=flat-square" alt="xoo2001" /> </p>
+
